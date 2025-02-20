@@ -5,4 +5,13 @@
 
 Installed and Deployed Roles on Domain Controller(dc-1) successfully
 
+![Image](https://github.com/user-attachments/assets/55a955af-004e-4d48-af9e-5308ba54a46a)
+![Image](https://github.com/user-attachments/assets/08de06ab-8765-43da-809b-c90f1b1a3248)
+![Image](https://github.com/user-attachments/assets/9d0caba2-3b77-4198-a32c-b6fdffad990f)
+
+Added user Jane Doe as an admin in Acive Directory(AD) and added her to the Domain Admin Group
+
+
+
+
 
