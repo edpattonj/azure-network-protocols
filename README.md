@@ -11,7 +11,8 @@ Installed and Deployed Roles on Domain Controller(dc-1) successfully
 
 Added user Jane Doe as an admin in Acive Directory(AD) and added her to the Domain Admin Group
 
+![Image](https://github.com/user-attachments/assets/a00dbd7d-7f24-4955-b9b9-b37add778836)
 
-
+Set Group Policy Lockout Rule
 
 
